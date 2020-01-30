@@ -1,4 +1,4 @@
-package dev.reiniervegter.sast_tests.config;
+package dev.reiniervegter.sast_weaknesses.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

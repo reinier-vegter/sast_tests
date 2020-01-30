@@ -1,4 +1,4 @@
-package dev.reiniervegter.sast_tests;
+package dev.reiniervegter.sast_weaknesses;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

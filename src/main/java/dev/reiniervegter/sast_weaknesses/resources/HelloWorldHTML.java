@@ -1,4 +1,4 @@
-package dev.reiniervegter.sast_tests.resources;
+package dev.reiniervegter.sast_weaknesses.resources;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

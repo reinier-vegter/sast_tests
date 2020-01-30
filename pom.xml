@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.reiniervegter</groupId>
-	<artifactId>sast_tests</artifactId>
+	<artifactId>sast_weaknesses</artifactId>
 	<version>0.0.27</version>
 	<name>reinier_helloworld</name>
 	<description>Demo project for Spring Boot</description>

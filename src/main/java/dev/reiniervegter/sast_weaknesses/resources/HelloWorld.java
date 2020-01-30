@@ -1,4 +1,4 @@
-package dev.reiniervegter.sast_tests.resources;
+package dev.reiniervegter.sast_weaknesses.resources;
 
 import com.reinier.Encodable;
 import org.owasp.encoder.Encode;
