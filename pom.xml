@@ -56,11 +56,18 @@
 			<groupId>com.reinier</groupId>
 			<artifactId>CrapEncoding</artifactId>
 			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/lib/CrapEncoding.jar</systemPath>
 		</dependency>
 
 	</dependencies>
+
+	<repositories>
+		<repository>
+			<id>project_lib</id>
+			<name>Repository in project's lib dir</name>
+			<layout>default</layout>
+			<url>file:///${project.basedir}/lib</url>
+		</repository>
+	</repositories>
 
 	<build>
 		<plugins>
